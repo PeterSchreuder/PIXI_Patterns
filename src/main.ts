@@ -5,6 +5,18 @@ import {GameLoop} from "./GameLoop";
 
 window.onload = () => onLoad();
 
+/* Pattern Sources:
+Strategy: https://refactoring.guru/design-patterns/strategy/typescript/example#:~:text=Patterns%20%2F%20Strategy%20%2F%20TypeScript-,Strategy%20in%20TypeScript,delegates%20it%20executing%20the%20behavior.
+Factory: https://refactoring.guru/design-patterns/factory-method/typescript/example
+Builder: https://medium.com/@itayelgazar/the-builder-pattern-in-node-js-typescript-4b81a70b2ea5
+Object Pool (Own experience) But i still read the page: https://sourcemaking.com/design_patterns/object_pool
+Singleton: https://medium.com/javascript-everyday/singleton-made-easy-with-typescript-6ad55a7ba7ff
+Adepter: https://refactoring.guru/design-patterns/adapter/typescript/example
+Facade: https://refactoring.guru/design-patterns/facade/typescript/example
+Observer: https://refactoring.guru/design-patterns/observer/typescript/example
+State: https://refactoring.guru/design-patterns/state/typescript/example
+*/
+
 function onLoad(): void {
 
     //- Pre- load the Sprites
