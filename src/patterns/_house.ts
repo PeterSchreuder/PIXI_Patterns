@@ -1,4 +1,4 @@
-import { HouseBuilder } from "./3Builder";
+import { HouseBuilder } from "./3Builder/index";
 
 export class House {
     address: string;
