@@ -11,7 +11,7 @@ Factory: https://refactoring.guru/design-patterns/factory-method/typescript/exam
 Builder: https://medium.com/@itayelgazar/the-builder-pattern-in-node-js-typescript-4b81a70b2ea5
 Object Pool (Own experience) But i still read the page: https://sourcemaking.com/design_patterns/object_pool
 Singleton: https://medium.com/javascript-everyday/singleton-made-easy-with-typescript-6ad55a7ba7ff
-Adepter: https://refactoring.guru/design-patterns/adapter/typescript/example
+Adapter: https://refactoring.guru/design-patterns/adapter/typescript/example
 Facade: https://refactoring.guru/design-patterns/facade/typescript/example
 Observer: https://refactoring.guru/design-patterns/observer/typescript/example
 State: https://refactoring.guru/design-patterns/state/typescript/example
